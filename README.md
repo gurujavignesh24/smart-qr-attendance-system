@@ -127,23 +127,11 @@ The attendance record stores:
 
 Example:
 
-```text
-Attendance marked: Moukhika (STU001)
-```
+## 📊 Attendance Report
 
-## Interview Explanation
+![Attendance Report](https://github.com/your-username/repo-name/blob/main/.png)
 
-This project is a QR code-based attendance system. It generates unique QR codes for students and scans them using OpenCV. After scanning, it validates the student details and stores attendance in a CSV file with date and time. I also added duplicate prevention so the same student cannot be marked present more than once on the same day. A simple HTML report is generated to view attendance records.
+## 📱 QR Attendance Pass
 
-## Resume Description
+![QR Pass](https://github.com/your-username/repo-name/blob/main/qr.png)
 
-**Smart QR Code-Based Attendance System**  
-Developed an automated attendance system using QR code generation and real-time scanning with Python and OpenCV. Implemented student QR generation, webcam/image-based QR detection, duplicate attendance prevention, CSV-based attendance storage, and an HTML report dashboard to reduce manual effort and improve attendance accuracy.
-
-## Future Enhancements
-
-- Add login for admin users
-- Store records in a database
-- Export attendance reports to Excel
-- Add email or SMS notification
-- Build a web dashboard for teachers
