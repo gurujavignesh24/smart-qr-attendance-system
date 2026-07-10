@@ -129,9 +129,9 @@ Example:
 
 ## 📊 Attendance Report
 
-![Attendance Report](https://github.com/your-username/repo-name/blob/main/.png](https://github.com/gurujavignesh24/smart-qr-attendance-system/blob/main/marked%20present.png)
+![Attendance Report](https://github.com/gurujavignesh24/smart-qr-attendance-system/raw/main/marked%20present.png)
 
 ## 📱 QR Attendance Pass
 
-![QR Pass](https://github.com/your-username/repo-name/blob/main/qr.png](https://github.com/gurujavignesh24/smart-qr-attendance-system/blob/main/qr.png)
+![QR Pass](https://github.com/gurujavignesh24/smart-qr-attendance-system/blob/main/qr.png)
 
