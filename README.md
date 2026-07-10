@@ -133,5 +133,5 @@ Example:
 
 ## 📱 QR Attendance Pass
 
-![QR Pass](https://github.com/your-username/repo-name/blob/main/qr.png)
+![QR Pass]([https://github.com/your-username/repo-name/blob/main/qr.png](https://github.com/gurujavignesh24/smart-qr-attendance-system/blob/main/qr.png))
 
